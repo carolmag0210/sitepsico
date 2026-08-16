@@ -1,0 +1,47 @@
+SITE DEMONSTRATIVO — PSICÓLOGA
+
+Arquivos:
+- index.html
+- styles.css
+- script.js
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra a pasta.
+3. Dê dois cliques em index.html.
+
+Dados fictícios para substituir depois:
+- Carolina Magalhães
+- CRP 03/00000
+- Universidade Exemplo
+- Endereço / bairro
+- WhatsApp
+- E-mail
+- Instagram
+- Demandas atendidas
+- Formação
+- Fotos
+
+O site é responsivo e funciona sem servidor.
+As fontes são carregadas pelo Google Fonts, então a internet é necessária para exibi-las exatamente como no layout.
+
+
+PALETA ATUAL:
+- Bege quente
+- Azul-marinho profundo
+- Amarelo queimado como destaque
+
+
+Identidade visual desta versão:
+- Bege: base acolhedora
+- Azul-marinho: textos, seções e autoridade visual
+- Amarelo queimado: detalhes e destaques
+- Favicon próprio CM
+
+
+Versão amarelo mais presente:
+- CTAs amarelos
+- marca CM amarela
+- faixa superior em seções
+- card presencial em amarelo suave
+- hover e destaques com amarelo
